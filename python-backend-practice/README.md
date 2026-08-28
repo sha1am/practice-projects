@@ -1,0 +1,1 @@
+Take project ideas from go repo. 
